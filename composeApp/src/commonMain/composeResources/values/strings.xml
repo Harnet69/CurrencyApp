@@ -1,0 +1,7 @@
+<resources>
+    <string name="rates">Rates</string>
+    <string name="rates_fresh">Fresh Rates</string>
+    <string name="rates_not_fresh">Rates aren't fresh</string>
+
+    <string name="united_arab_emirates">United Arab Emirates</string>
+</resources>
